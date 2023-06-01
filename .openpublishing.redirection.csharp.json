@@ -237,7 +237,7 @@
         },
         {
             "source_path_from_root": "/docs/csharp/interop.md",
-            "redirect_url": "/dotnet/csharp/programming-guide/interop/index"
+            "redirect_url": "/dotnet/csharp/advanced-topics/interop/index"
         },
         {
             "source_path_from_root": "/docs/csharp/lambda-expressions.md",
